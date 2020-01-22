@@ -1,0 +1,54 @@
+nmap google.com
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-22 11:17 UTC
+Nmap scan report for google.com (172.217.0.238)
+Host is up (0.00094s latency).
+Other addresses for google.com (not scanned): 2607:f8b0:400b:808::200e
+rDNS record for 172.217.0.238: yyz10s03-in-f14.1e100.net
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 9.42 seconds
+
+nmap -p 22 facebook.com
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-22 11:18 UTC
+Nmap scan report for facebook.com (31.13.80.36)
+Host is up (0.0011s latency).
+Other addresses for facebook.com (not scanned): 2a03:2880:f10e:83:face:b00c:0:25de
+rDNS record for 31.13.80.36: edge-star-mini-shv-01-yyz1.facebook.com
+
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap done: 1 IP address (1 host up) scanned in 0.50 seconds
+
+
+nmap -p 22-80 georgebrown.ca
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-22 11:18 UTC
+Nmap scan report for georgebrown.ca (198.96.86.202)
+Host is up (0.0017s latency).
+rDNS record for 198.96.86.202: interviewfail.ca
+Not shown: 58 filtered ports
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 2.26 seconds
+
+nmap -F redflagdeals.ca
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-22 11:19 UTC
+Nmap scan report for redflagdeals.ca (76.74.243.26)
+Host is up (0.0026s latency).
+rDNS record for 76.74.243.26: redfo.nestsimple.net
+Not shown: 96 filtered ports
+PORT    STATE  SERVICE
+25/tcp  open   smtp
+53/tcp  closed domain
+80/tcp  open   http
+443/tcp closed https
+
+Nmap done: 1 IP address (1 host up) scanned in 5.93 seconds

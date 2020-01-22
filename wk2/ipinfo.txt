@@ -1,0 +1,31 @@
+itnews.com 
+
+Source: whois.arin.netIP Address: 151.101.194.165Name: SKYCA-3Handle: NET-151-101-0-0-1Registration Date: 2/1/16Range: 151.101.0.0-151.101.255.255Org: FastlyOrg Handle: SKYCA-3Address: PO Box 78266
+City: San FranciscoState/Province: CAPostal Code: 94107Country: United StatesName Servers: Source: whois.arin.netIP Address: 151.101.66.165Name: SKYCA-3Handle: NET-151-101-0-0-1Registration Date: 2/1/16Range: 151.101.0.0-151.101.255.255Org: FastlyOrg Handle: SKYCA-3Address: PO Box 78266
+City: San FranciscoState/Province: CAPostal Code: 94107Country: United StatesName Servers: Source: whois.arin.netIP Address: 151.101.2.165Name: SKYCA-3Handle: NET-151-101-0-0-1Registration Date: 2/1/16Range: 151.101.0.0-151.101.255.255Org: FastlyOrg Handle: SKYCA-3Address: PO Box 78266
+City: San FranciscoState/Province: CAPostal Code: 94107Country: United StatesName Servers: Source: whois.arin.netIP Address: 151.101.130.165Name: SKYCA-3Handle: NET-151-101-0-0-1Registration Date: 2/1/16Range: 151.101.0.0-151.101.255.255Org: FastlyOrg Handle: SKYCA-3Address: PO Box 78266
+City: San FranciscoState/Province: CAPostal Code: 94107Country: United StatesName Servers:
+
+movies.com
+
+Source: whois.arin.netIP Address: 204.74.99.100Name: ULTRADNS-GLOBAL-2Handle: NET-204-74-96-0-1Registration Date: 3/22/02Range: 204.74.96.0-204.74.108.255Org: UltraDNS CorpOrg Handle: ULTRAD-4Address: 800 San Mateo Drive
+City: San MateoState/Province: CAPostal Code: 94401Country: United StatesName Servers:
+
+apple.com
+
+Source: whois.arin.netIP Address: 17.142.160.59Name: APPLE-WWNETHandle: NET-17-0-0-0-1Registration Date: 4/16/90Range: 17.0.0.0-17.255.255.255Org: Apple Inc.Org Handle: APPLEC-1-ZAddress: 20400 Stevens Creek Blvd., City Center Bldg 3
+City: CupertinoState/Province: CAPostal Code: 95014Country: United StatesName Servers: Source: whois.arin.netIP Address: 17.172.224.47Name: APPLE-WWNETHandle: NET-17-0-0-0-1Registration Date: 4/16/90Range: 17.0.0.0-17.255.255.255Org: Apple Inc.Org Handle: APPLEC-1-ZAddress: 20400 Stevens Creek Blvd., City Center Bldg 3
+City: CupertinoState/Province: CAPostal Code: 95014Country: United StatesName Servers: Source: whois.arin.netIP Address: 17.178.96.59Name: APPLE-WWNETHandle: NET-17-0-0-0-1Registration Date: 4/16/90Range: 17.0.0.0-17.255.255.255Org: Apple Inc.Org Handle: APPLEC-1-ZAddress: 20400 Stevens Creek Blvd., City Center Bldg 3
+City: CupertinoState/Province: CAPostal Code: 95014Country: United StatesName Servers:
+
+
+google.com
+
+Source: whois.arin.netIP Address: 172.217.11.46Name: GOOGLEHandle: NET-172-217-0-0-1Registration Date: 4/16/12Range: 172.217.0.0-172.217.255.255Org: Google LLCOrg Handle: GOGLAddress: 1600 Amphitheatre Parkway
+City: Mountain ViewState/Province: CAPostal Code: 94043Country: United StatesName Servers:
+
+georgebrown.ca
+
+Source: whois.arin.netIP Address: 198.96.86.202Name: NETBLK-GBROWNCHandle: NET-198-96-84-0-1Registration Date: 11/30/93Range: 198.96.84.0-198.96.87.255Org: The George Brown College of Applied Arts and TechnologyOrg Handle: GBCAAT-ZAddress: P.O. Box 1015
+Station B
+City: TorontoState/Province: ONPostal Code: M5T-2T9Country: CanadaName Servers:
