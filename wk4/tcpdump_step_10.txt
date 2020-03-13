@@ -1,0 +1,11 @@
+tcpdump -i eth0 port 22
+02:21:31.252975 IP CPE688f2e1b6593-CM688f2e1b6590.cpe.net.cable.rogers.com.53897 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1302884, win 32768, options [nop,nop,TS val 797520889 ecr 2482444991], length 0
+02:21:31.252984 IP CPE688f2e1b6593-CM688f2e1b6590.cpe.net.cable.rogers.com.53897 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [P.], seq 793:829, ack 1302884, win 32768, options [nop,nop,TS val 797520889 ecr 2482444991], length 36
+02:21:31.252987 IP CPE688f2e1b6593-CM688f2e1b6590.cpe.net.cable.rogers.com.53897 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1305564, win 32747, options [nop,nop,TS val 797520891 ecr 2482444992], length 0
+02:21:31.252995 IP CPE688f2e1b6593-CM688f2e1b6590.cpe.net.cable.rogers.com.53897 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1307440, win 32717, options [nop,nop,TS val 797520891 ecr 2482444992], length 0
+02:21:31.253000 IP CPE688f2e1b6593-CM688f2e1b6590.cpe.net.cable.rogers.com.53897 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1307440, win 32768, options [nop,nop,TS val 797520891 ecr 2482444992], length 0
+02:21:31.253002 IP CPE688f2e1b6593-CM688f2e1b6590.cpe.net.cable.rogers.com.53897 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1309316, win 32747, options [nop,nop,TS val 797520892 ecr 2482444993], length 0
+^C
+5188 packets captured
+5495 packets received by filter
+307 packets dropped by kernel

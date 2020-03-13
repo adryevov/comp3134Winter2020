@@ -1,0 +1,11 @@
+root@ubuntu-s-1vcpu-1gb-tor1-01:~# tcpdump -c 5 -i eth0
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), capture size 262144 bytes
+01:36:23.054984 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > CPE688f2e1b6593-CM688f2e1b6590.cpe.net.cable.rogers.com.53897: Flags [P.], seq 1745547532:1745547640, ack 1914747657, win 501, options [nop,nop,TS val 2479736745 ecr 794817690], length 108
+01:36:23.055080 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > CPE688f2e1b6593-CM688f2e1b6590.cpe.net.cable.rogers.com.53897: Flags [P.], seq 108:144, ack 1, win 501, options [nop,nop,TS val 2479736745 ecr 794817690], length 36
+01:36:23.055196 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > CPE688f2e1b6593-CM688f2e1b6590.cpe.net.cable.rogers.com.53897: Flags [P.], seq 144:252, ack 1, win 501, options [nop,nop,TS val 2479736745 ecr 794817690], length 108
+01:36:23.055271 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > CPE688f2e1b6593-CM688f2e1b6590.cpe.net.cable.rogers.com.53897: Flags [P.], seq 252:288, ack 1, win 501, options [nop,nop,TS val 2479736745 ecr 794817690], length 36
+01:36:23.057420 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > CPE688f2e1b6593-CM688f2e1b6590.cpe.net.cable.rogers.com.53897: Flags [P.], seq 288:564, ack 1, win 501, options [nop,nop,TS val 2479736747 ecr 794817690], length 276
+5 packets captured
+9 packets received by filter
+0 packets dropped by kernel

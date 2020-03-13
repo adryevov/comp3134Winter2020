@@ -1,0 +1,27 @@
+Too much output in a short period of time so these are only few last packets
+
+01:38:05.917130 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > CPE688f2e1b6593-CM688f2e1b6590.cpe.net.cable.rogers.com.53897: Flags [P.], seq 22283112:22283780, ack 14401, win 501, options [nop,nop,TS val 2479839609 ecr 794919204], length 668
+E.....@.@....c.I.w......i^..r .............
+..Yy/a.$...edE..s$.I..h$^D8>i~.r5....7..q....@..>....S;....I.....>..o.q)l....<.....m...uy..Y.mN..[.......w.a.bI....9\	)..L.r....lR..Gnh.I.d-.....l.D...W8.......tw..\.........-yh.)..=.......[....Z..v.7O.]d..p....j.x..(.g..
+.1o-....g3...O..*.....8.	=p..._..O......q..!..f.D...Y..|....._.B`_..Otl{..m:-..'..S...Dw+....^}n.......7.5y.....r.[..3 ..Z.Y}=..>.....8D.....V.......(.c:...''%....l#K.$W..u:q........y......D'`f.C#2......t`:....=..."n1P.a..n(....G.Ho&..{...y....?......,..AU..n.SN.nn.g..6o.`l*~..f...T......m....:F*.....&...9......j.^...u|..7jH.R..2hS...^l...`X."....../!
+UIg5
+..........J..e......'c.......,z..../..~.....ZN..zv...J.o..l....;~F..@.gz"...2gi..G._1ny...n..P.
+01:38:05.917318 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > CPE688f2e1b6593-CM688f2e1b6590.cpe.net.cable.rogers.com.53897: Flags [P.], seq 22283936:22284476, ack 14401, win 501, options [nop,nop,TS val 2479839609 ecr 794919204], length 540
+E..P..@.@..k.c.I.w......i_..r .......V.....
+..Yy/a.$.+.......q...2.R..^'.....r,....}-D[.uc.*.....x.%])....(f..."..?R..T...;.{......C&h..+\..qB...,PNG[..!n....e3.6..5.....(h..'V.......M....-....T../_u ...FI.
+..R.#.....`.nd*...N..y@*6e.m.......%....,.P2....,.h.....*...x...f.....9.-..9+...03...>hneI....	0R...O..4x..........N..Xc>s.F.f....^..wG.(+(F@..H..'.......F....g..#....FR4r	....T...].K.w...........t.s.Bi..f.7h.M. 9.!.0-.
+{.Ii.<Z$...}Jxg.....g. .....eF.X./.S.....L>.\.>H....w..-.g.P...rQr.....(..Qy..%u.,....-2).(.&..x.$..l....q.e2.B.............2.z.....B..r..'J3..x~......].../.>...x..F
+01:38:05.918055 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > CPE688f2e1b6593-CM688f2e1b6590.cpe.net.cable.rogers.com.53897: Flags [P.], seq 22285228:22285720, ack 14401, win 501, options [nop,nop,TS val 2479839610 ecr 794919204], length 492
+E.. ..@.@....c.I.w......i_..r .......&.....
+..Yz/a.$...Yi.W...c%L.."5p9.Cj..'.).........n.<.....~..~..qUX/....d.n..x...L.S''....r....H........dO......kP..}S*...N.Q..]le..?.3
+1......5........t.K..!......F...J.....z..s.....?.
+!7..&....'.."...a. TFw..~.%..J..../.....xgWDfH
+o-...m.V..~	.]P.t........F.Q..,i.....`.ykt......B.M.(P.k.K....G......O=B.....G...p9.;....plS!r. 12s>....~I......QceT3.|...%..P.p..8.......Ng..p.."......u,y.yh..@"..En@..K6.4M	~.....7....p.^.....$....%1.@D..R.....K.... .......f@&6P...Gj...eA"..36..+....a.@f...y..."..k.....R
+^C01:38:05.919005 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > 201.192.152.202.44498: Flags [P.], seq 3680685567:3680685608, ack 1054564269, win 510, options [nop,nop,TS val 2084675250 ecr 3351296003], length 41
+E..]gL@.@....c.I.........b..>._............
+|A......SSH-2.0-OpenSSH_7.6p1 Ubuntu-4ubuntu0.3
+
+
+24138 packets captured
+59269 packets received by filter
+35125 packets dropped by kernel

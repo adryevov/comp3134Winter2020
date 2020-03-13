@@ -1,0 +1,14 @@
+Too much output in short period of time so only few last packets
+
+01:42:51.557796 IP 167.99.178.73.22 > 174.119.130.239.53897: Flags [P.], seq 1023352:1023564, ack 577, win 501, options [nop,nop,TS val 2480125257 ecr 795203963], length 212
+01:42:51.557924 IP 167.99.178.73.22 > 174.119.130.239.53897: Flags [P.], seq 1023564:1023776, ack 577, win 501, options [nop,nop,TS val 2480125257 ecr 795203963], length 212
+01:42:51.558022 IP 174.119.130.239.53897 > 167.99.178.73.22: Flags [.], ack 987448, win 32734, options [nop,nop,TS val 795203964 ecr 2480125242], length 0
+01:42:51.558042 IP 174.119.130.239.53897 > 167.99.178.73.22: Flags [.], ack 988084, win 32758, options [nop,nop,TS val 795203964 ecr 2480125242], length 0
+01:42:51.558046 IP 174.119.130.239.53897 > 167.99.178.73.22: Flags [P.], seq 577:613, ack 988084, win 32768, options [nop,nop,TS val 795203964 ecr 2480125242], length 36
+01:42:51.558051 IP 174.119.130.239.53897 > 167.99.178.73.22: Flags [.], ack 988508, win 32761, options [nop,nop,TS val 795203965 ecr 2480125243], length 0
+01:42:51.558056 IP 174.119.130.239.53897 > 167.99.178.73.22: Flags [.], ack 989144, win 32751, options [nop,nop,TS val 795203965 ecr 2480125243], length 0
+01:42:51.558060 IP 174.119.130.239.53897 > 167.99.178.73.22: Flags [.], ack 990416, win 32754, options [nop,nop,TS val 795203966 ecr 2480125243], length 0
+^C
+4966 packets captured
+5266 packets received by filter
+299 packets dropped by kernel

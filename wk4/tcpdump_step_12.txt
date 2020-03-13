@@ -1,0 +1,17 @@
+root@ubuntu-s-1vcpu-1gb-tor1-01:~# tcpdump -i eth0 dst 167.99.178.73
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), capture size 262144 bytes
+02:40:54.952606 IP CPE688f2e1b6593-CM688f2e1b6590.cpe.net.cable.rogers.com.53897 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1773322120, win 32767, options [nop,nop,TS val 798682013 ecr 2483608719], length 0
+02:40:54.962859 IP CPE688f2e1b6593-CM688f2e1b6590.cpe.net.cable.rogers.com.53897 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 289, win 32763, options [nop,nop,TS val 798682022 ecr 2483608729], length 0
+02:40:54.968751 IP CPE688f2e1b6593-CM688f2e1b6590.cpe.net.cable.rogers.com.53897 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 577, win 32763, options [nop,nop,TS val 798682028 ecr 2483608736], length 0
+02:40:54.986065 IP CPE688f2e1b6593-CM688f2e1b6590.cpe.net.cable.rogers.com.53897 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 857, win 32763, options [nop,nop,TS val 798682037 ecr 2483608744], length 0
+02:40:54.987977 IP 45.140.169.196.42646 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1780804021, win 502, options [nop,nop,TS val 2156021336 ecr 1229513331], length 0
+02:40:54.990750 IP CPE688f2e1b6593-CM688f2e1b6590.cpe.net.cable.rogers.com.53897 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1137, win 32763, options [nop,nop,TS val 798682041 ecr 2483608750], length 0
+02:40:55.004321 IP CPE688f2e1b6593-CM688f2e1b6590.cpe.net.cable.rogers.com.53897 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1417, win 32763, options [nop,nop,TS val 798682058 ecr 2483608768], length 0
+02:40:55.011577 IP CPE688f2e1b6593-CM688f2e1b6590.cpe.net.cable.rogers.com.53897 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1937, win 32763, options [nop,nop,TS val 798682061 ecr 2483608772], length 0
+02:40:55.020918 IP CPE688f2e1b6593-CM688f2e1b6590.cpe.net.cable.rogers.com.53897 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 2217, win 32763, options [nop,nop,TS val 798682076 ecr 2483608786], length 0
+^C02:40:55.024861 IP 1.234.9.101.51918 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [S], seq 3836551295, win 29200, length 0
+
+10 packets captured
+21 packets received by filter
+5 packets dropped by kernel
