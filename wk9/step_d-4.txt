@@ -1,0 +1,1 @@
+I see a list of folders that are in a var folder of my droplet root directory

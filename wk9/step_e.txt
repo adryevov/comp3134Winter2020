@@ -1,0 +1,20 @@
+<?php
+ini_set('display_errors', 1);
+ini_set('display_startup_errors', 1);
+error_reporting(E_ALL);
+$path=basename(realpath($_GET['q']) ? $_GET['q'] : '.');
+if(file_exists($path) && is_dir($path)){
+        if(strpos($_GET['q'] , ".") !== false){
+        print "Passing filename is not allowed";
+        }
+        else{
+                print "<pre>";
+                print_r(scandir($path));
+                print "</pre>";
+        }
+}
+?>
+
+added basename function to return a only a filename whose path was given
+added file_exists check to make sure that the file file_exists
+added another if staement to check if there is a dot(.) in the parameter
