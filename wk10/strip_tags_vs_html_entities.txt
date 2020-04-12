@@ -1,0 +1,3 @@
+strip_tags — Strip HTML and PHP tags from a string
+
+htmlentities — Convert all applicable characters to HTML entities

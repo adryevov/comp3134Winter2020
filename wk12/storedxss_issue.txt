@@ -1,0 +1,2 @@
+Empty screen
+File contents can be seen through page source code in head section of the page because of script tag

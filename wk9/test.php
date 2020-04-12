@@ -10,10 +10,10 @@
 
 <?php
     $common_passwords = array("123456", "123456789", "qwerty", "password", "111111", "12345678", "abc123" , "1234567", "password1", "12345");
-    if(isset($_POST['submit'])){
+    
             if(in_array($_POST['password'], $common_passwords)){
                 ob_end_clean();
                 echo "<h2> Welcome ". $_POST['username']. "to your Portal! </h2>";
             }
-    };
+    
 ?>

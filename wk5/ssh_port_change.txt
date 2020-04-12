@@ -1,0 +1,7 @@
+task 6 
+
+root@ubuntu-s-1vcpu-1gb-tor1-01:/etc/ssh# service sshd restart
+
+task 7
+
+(base) Artems-MacBook-Pro:wk5 artem$ ssh root@167.99.178.73 -p 2222

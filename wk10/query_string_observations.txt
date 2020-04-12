@@ -1,0 +1,18 @@
+1. Searched 'stuff'
+new url - https://www.dictionary.com/browse/stuff?s=t
+After clicking enter/search button page reloaded showing data for word 'stuff'
+
+2. Type 'bagurgle' after /browse/ section of url
+new url - https://www.dictionary.com/misspelling?term=bagurgle
+After clicking enter page reloaded showning 'No results found for bagurgle'
+Looks like this is their error page
+
+3. Type <script>alert(%27hello%27)</script> in the form 
+new url - https://www.dictionary.com/noresult?term=%3Cscript%3Ealert(%27hello%27)%3C%2Fscript%3E&s=ts
+After clicking search button page reload and show a list of items that (looks like) have parts/words of a searched input inside of their header/body
+
+4. Type  <script>alert(%27hello%27)</script> after the `term=` section of the URL
+new url - https://www.dictionary.com/noresult?term=%3Cscript%3Ealert(%27hello%27)%3C/script%3E
+After clicking enter show the output that is the same as in task 3 but with a bit different url
+
+

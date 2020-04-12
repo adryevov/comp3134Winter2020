@@ -1,0 +1,2 @@
+Wasnt able to log in through csfr.html because it doesnt have a confirmation variable.
+Successfully logged in through csfr_form.php

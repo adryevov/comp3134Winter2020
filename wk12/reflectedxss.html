@@ -1,0 +1,15 @@
+<h1>Reflected XSS LAB</h1>
+<form onsubmit="myFunc()">
+    <input id="input" type="text" name="input">
+    <button type="submit" name="submit">Submit</button>
+</form>
+<div id="out"></div>
+<script>
+    const myFunc = () => {
+        event.preventDefault();
+        const input = document.getElementById('input').value;
+        document.getElementById("out").innerHTML = input;
+    }
+</script>
+
+    
